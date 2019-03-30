@@ -1,0 +1,8 @@
+src/AIPlayer.cpp
+src/main.cpp
+src/GameLogic.cpp
+src/Player.cpp
+src/Board.cpp
+src/HumanPlayer.cpp
+src/Square.cpp
+src/Game.cpp
