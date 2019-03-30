@@ -1,0 +1,14 @@
+.cproject
+.project
+Debug/
+Makefile
+Reversi UML
+ex1.zip
+ex2.zip
+ex3.zip
+README.docx
+git log
+*.idea
+cmake-build-debug/
+src/client/cmake-build-debug/
+CMakeLists.txt
